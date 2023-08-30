@@ -30,12 +30,20 @@ Esse projeto foi desenvolvido visando o preparo para a atuação profissional em
 
 Ferramentas Utilizadas: Power BI, Power Automate, Power APP, Adobe XD, GitHub, 5W2H e Método Scrum
 
+<blockquote> This project was developed with the aim of preparing for a professional role in logistics, exploring the integration of new technologies for analyzing data in the Automotive Supply Chain. This enabled an understanding of the functioning of this supply chain in recent years, allowing for projections into the sector's future.
+
+Tools Used: Power BI, Power Automate, Power App, Adobe XD, GitHub, 5W2H, and Scrum Methodology.</blockquote> 
+
 [wh]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo
 
 ## [Projeto Intedisciplinar - FATEC (2º Semestre)][wh]
-Esse projeto foi desenvolvido visando o preparo para a atuação profissional em logística, explorando a integração de novas tecnologias para análise de dados do transporte Ferroviário de Carags no Brasil. Isso possibilitou o entendimento do funcionamento desse modal nos útimos anos, que permite uma projeção para o futuro do setor.
+Esse projeto foi desenvolvido visando o preparo para a atuação profissional em logística, explorando a integração de novas tecnologias para análise de dados do transporte Ferroviário de Cargas no Brasil. Isso possibilitou o entendimento do funcionamento desse modal nos útimos anos, que permite uma projeção para o futuro do setor.
 
 Ferramentas Utilizadas: Power BI, Python, JIRA Software, Adobe XD, GitHub, 5W2H e Método Scrum
+
+<blockquote> This project was developed with the aim of preparing for a professional role in logistics, exploring the integration of new technologies for data analysis in freight rail transport in Brazil. This enabled an understanding of the functioning of this transportation mode in recent years, allowing for projections into the sector's future.
+
+Tools Used: Power BI, Python, JIRA Software, Adobe XD, GitHub, 5W2H, and Scrum Methodology. </blockquote> 
 
 
 [wh]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo
