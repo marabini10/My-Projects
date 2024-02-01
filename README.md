@@ -11,7 +11,7 @@
         <h1>Diego Marabini</h1>
         <p>Analista de Planejamento | Planning Analyst</p>
         <p>Course: Logistics Technology</p>
-        <p>Age: 22</p>
+        <p>Age: 23</p>
         <p>Location: São José dos Campos, Brazil</p>
     </header>
     <section>
